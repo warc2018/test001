@@ -1,1 +1,2 @@
 Commit 1 test2.txt
+Commit 2 test2.txt
