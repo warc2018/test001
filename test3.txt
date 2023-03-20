@@ -1,3 +1,4 @@
 change first after commit
 change text to test diff
 git difftool
+git commit -a //dodanie commita od razu do poczekalni
